@@ -1,0 +1,15 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "description": "calculator bmi",
+  "main": "bmi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ABDULLAH",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
+}
